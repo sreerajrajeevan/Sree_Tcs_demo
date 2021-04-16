@@ -1,7 +1,7 @@
 package Company;
 /**
  * POJO class for employee consists of all getters, setters and toString method
- * @author Sreeraj
+ * @author Sreeraj k
  * created 16-04-2021
  */
 public class Employee {
